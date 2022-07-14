@@ -1,4 +1,4 @@
-TranScan software for the paper entitled "Translocation Detection from Hi-C data via Scan Statistics" by Anthony Cheng, Disheng Mao, Yuping Zhang, Joseph Glaz, and Zhengqing Ouyang.
+TranScan software presented in the paper entitled "Translocation Detection from Hi-C data via Scan Statistics" by Anthony Cheng, Disheng Mao, Yuping Zhang, Joseph Glaz, and Zhengqing Ouyang.
 
 The TranScan R package detects chromosome translocation events in genome-wide proximity ligation data such as Hi-C. The accompanying translocation breakpoint finder is post-processing scripts that are written in Python.
 
