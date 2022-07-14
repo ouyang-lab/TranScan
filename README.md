@@ -1,2 +1,2 @@
 # TranScan
-TranScan detects chromosome translocations and breakpoints from genome-wide proximity ligation data.
+TranScan detects chromosome translocation events and breakpoints from genome-wide proximity ligation data.
